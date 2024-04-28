@@ -1,16 +1,23 @@
 # shoping
 
-A new Flutter project.
+Shopping App with Provider deal with Sqlite  like Shopping part in E-commerce App
 
-## Getting Started
+# about 
+- [🖥] # Deal With 🖥
+- [x] Deal With Provider
 
-This project is a starting point for a Flutter application.
+## Benfit👻
+- [🖥] # Screens 🖥
 
-A few resources to get you started if this is your first Flutter project:
+# Screen Items 
+|<img src="snapshot/all_item.jpg" width="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Favorite Screen 
+|<img src="snapshot/fav.jpg" width="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Detailes Screen 
+- detailes about any item
+<img src="snapshot/details.jpg" width="500">
+
+## Dependencies 💤
+ -  `provider: ^6.1.1`
